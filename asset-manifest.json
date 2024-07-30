@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tcherry92/birthday-scavenger-hunt.git/static/css/main.e6c13ad2.css",
+    "main.js": "/tcherry92/birthday-scavenger-hunt.git/static/js/main.499afe59.js",
+    "static/js/453.425a93bf.chunk.js": "/tcherry92/birthday-scavenger-hunt.git/static/js/453.425a93bf.chunk.js",
+    "index.html": "/tcherry92/birthday-scavenger-hunt.git/index.html",
+    "main.e6c13ad2.css.map": "/tcherry92/birthday-scavenger-hunt.git/static/css/main.e6c13ad2.css.map",
+    "main.499afe59.js.map": "/tcherry92/birthday-scavenger-hunt.git/static/js/main.499afe59.js.map",
+    "453.425a93bf.chunk.js.map": "/tcherry92/birthday-scavenger-hunt.git/static/js/453.425a93bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.499afe59.js"
+  ]
+}
